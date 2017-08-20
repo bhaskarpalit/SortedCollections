@@ -9,9 +9,6 @@ import java.util.TreeMap;
  * 
  * Basket.java
  * 
- * From Tim Buchalka's Complete Java Developer Course
- * Copyright (c) 2015-2016
- * Contact author at:  http://timbuchalka.com
  * 
  */
 public class Basket {

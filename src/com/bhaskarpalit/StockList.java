@@ -9,9 +9,6 @@ import java.util.Map;
  * 
  * StockList.java
  * 
- * From Tim Buchalka's Complete Java Developer Course
- * Copyright (c) 2015-2016
- * Contact author at:  http://timbuchalka.com
  * 
  */
 public class StockList {
